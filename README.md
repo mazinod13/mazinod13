@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm mazinod13</h1>
+<h1 align="center">Hi, I'm mishan</h1>
 
 ### About Me
 
-I'm a developer who builds real-time data tools, web automation and backend services.
+I wish i could automate my daily life with python
 
 ---
 
