@@ -25,12 +25,6 @@ I'm a developer who builds real-time data tools, web automation and backend serv
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazinod13&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazinod13&theme=github_dark" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mazinod13&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
