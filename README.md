@@ -2,7 +2,7 @@
 
 ### About Me
 
-I wish i could automate my daily life with python
+Automating everything with PYTHON
 
 ---
 
